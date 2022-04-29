@@ -113,7 +113,7 @@
         <plugin.surefire.version>2.22.2</plugin.surefire.version>
         <plugin.failsafe.version>2.22.2</plugin.failsafe.version>
         <plugin.maven.source>3.0.1</plugin.maven.source>
-        <exec.maven.version>1.6.0</exec.maven.version>
+        <exec.maven.version>3.0.0</exec.maven.version>
         <build.helper.maven.version>3.0.0</build.helper.maven.version>
 
         <checkstyle.version>6.19</checkstyle.version>
